@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#fondo{
+    opacity: 0.7;
+    position: absolute  ;
+    z-index: -1;
+}
+
+.img1{
+    display: none;
+    font
+}
+
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 30px;
+}
+
+nav a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    border: 1px solid black;
+    text-shadow:0px 3px 5px black ;
+    transition: all 2s;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+a:hover{
+    font-size: 20px;
+    padding: 10px;
+    background-color: #5461aa;
+    color: white;
+    background-color: black;
+}
+nav{
+    text-align: center;
+}
+
+h2{
+    margin-top: 50px;
+font-size: 30px;
+text-align: center;
+}
+
+.logot{
+    position: relative;
+    text-align: center;
+}
+
+.text1{
+    margin: 100px;
+    margin-top: 20px;
+}
+
+.text2{
+    margin: 30px;
+    padding: 10px;
+    background-color: aliceblue;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 100px;
+}
+
+
+
+footer {
+    background-color: #333; /* Fondo gris oscuro */
+    color: white; /* Texto blanco */
+    text-align: center; /* Centra el texto */
+    padding: 10px 0; /* Espaciado interno */
+    bottom: 10px;
+    position: relative; /* Hace que el footer sea relativo para asegurar que esté al final del contenido */
+    width: 100%; /* Hace que el footer ocupe todo el ancho */
+  }
+  
+  footer a {
+    color: #ddd; /* Color del enlace */
+    text-decoration: none; /* Quita el subrayado del enlace */
+  }
+  
+  footer a:hover {
+    color: #fff; /* Cambia el color del enlace al pasar el cursor */
+  }
