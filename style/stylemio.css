@@ -79,7 +79,7 @@ footer {
     color: white; 
     text-align: center; 
     padding: 10px 0; 
-    bottom: 10px;
+    bottom: -300px;
     position: relative;
     width: 100%; 
   }
