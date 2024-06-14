@@ -71,20 +71,20 @@ text-align: center;
 
 
 footer {
-    background-color: #333; /* Fondo gris oscuro */
-    color: white; /* Texto blanco */
-    text-align: center; /* Centra el texto */
-    padding: 10px 0; /* Espaciado interno */
+    background-color: #333; 
+    color: white; 
+    text-align: center; 
+    padding: 10px 0; 
     bottom: 10px;
-    position: relative; /* Hace que el footer sea relativo para asegurar que esté al final del contenido */
-    width: 100%; /* Hace que el footer ocupe todo el ancho */
+    position: relative;
+    width: 100%; 
   }
   
   footer a {
-    color: #ddd; /* Color del enlace */
-    text-decoration: none; /* Quita el subrayado del enlace */
+    color: #ddd; 
+    text-decoration: none; 
   }
   
   footer a:hover {
-    color: #fff; /* Cambia el color del enlace al pasar el cursor */
+    color: #fff; 
   }
